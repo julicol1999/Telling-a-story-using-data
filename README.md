@@ -1,14 +1,14 @@
-# 🤖 Robot Café Market Analysis - Los Angeles
+# Telling a story using data
 
-## 📍 Project Description
+## Project Description
 
-You’ve decided to open a small café in Los Angeles, fully staffed by robots. The idea is promising but costly, so you and your partners are looking to attract investors. To do so, you need to demonstrate that your business can remain successful even after the initial hype around robotic waitstaff fades away.
+The project explores the viability of opening a small, robot-staffed café in Los Angeles. While the concept is innovative and attention-grabbing, it also involves significant startup costs. To attract potential investors, the team needs to demonstrate that the café can remain profitable even after the novelty of robotic waitstaff wears off.
 
-As a data analysis expert, you've been tasked with preparing a **market research study** using open data on restaurants in Los Angeles.
+A market research study is carried out using publicly available data on restaurants in Los Angeles. The goal is to evaluate the competitive landscape, identify potential customer segments, and provide insights into factors that contribute to long-term restaurant success in the area.
 
 ---
 
-## 📊 Objectives
+## Objectives
 
 - Clean and prepare the restaurant data for analysis.
 - Analyze establishment types, chain affiliation, and seating capacity.
@@ -17,7 +17,7 @@ As a data analysis expert, you've been tasked with preparing a **market research
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **File path:** `/datasets/rest_data_us_upd.csv`
 - **Format:** CSV
@@ -25,7 +25,7 @@ As a data analysis expert, you've been tasked with preparing a **market research
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python
 - Pandas
@@ -34,7 +34,7 @@ As a data analysis expert, you've been tasked with preparing a **market research
 - Regular Expressions (`re`)
 
 
-## 📈 Sample Code Snippet
+## Sample Code Snippet
 
 ```python
 import pandas as pd
